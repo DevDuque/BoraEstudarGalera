@@ -14,12 +14,6 @@
 <p align="center">
   <img src="./welcome.png" alt=HTML CSS JS - Analogy" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-  
-  <br>
-  <a href="#-Aulas / Dicas de Estudo">Aulas / Dicas de Estudo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Projetos">COLTEC</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Entrar em Contato"> Layout </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  
 </p>
 
 
