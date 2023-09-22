@@ -21,7 +21,7 @@ Ele funciona no lado do usuário da web, o que significa que é executado no com
 Você pode pensar no JavaScript como um conjunto de instruções que diz à página da web o que fazer quando algo acontece, como quando você clica em um botão. É como mágica digital! E a melhor parte é que o JavaScript é uma linguagem que não é difícil de aprender, mas é muito poderosa.
 </p>
 
-Agora falando de design, temos...
+<h1 align="center"> Agora falando de design, temos ...</h1>
 
 <h1 align="center"> Figma </h1>
 <p align="center"> Como temos que elaborar um design de forma cooperativa, ultra recomendo o Figma. Além de funcionalidades ótimas, ele traz consigo um ambiente cooperativo e tudo na nuvem!
