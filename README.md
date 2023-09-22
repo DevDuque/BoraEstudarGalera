@@ -25,25 +25,36 @@ Aqui temos sites que eu acho pertinentes, que me ajudaram para estudar para isso
 
 # Aulas / Dicas de Estudo
 <p>
-[Estudo de HTML 5 e CSS3 por Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=h8U_FWOTycdp0yFv) <br>
-[Caminho para desenvolvimento web](https://youtu.be/naZDkZukB-g?si=-Qfz_OxusaRGRD3J) <br>
-[Aula com projeto por Hora de Codar](https://youtu.be/yvCAX68TJMc?si=iclZ7rg99Yg7o40h) <br>
-[Curso de Front-End por Rocketseat](https://www.rocketseat.com.br/discover) <br>
+[Estudo de HTML 5 e CSS3 por Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=h8U_FWOTycdp0yFv) 
+<br>
+[Caminho para desenvolvimento web](https://youtu.be/naZDkZukB-g?si=-Qfz_OxusaRGRD3J) 
+<br>
+[Aula com projeto por Hora de Codar](https://youtu.be/yvCAX68TJMc?si=iclZ7rg99Yg7o40h) 
+<br>
+[Curso de Front-End por Rocketseat](https://www.rocketseat.com.br/discover) 
+<br>
 
 # Projetos
-[Diversos projetos por Rocketseat](https://youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&si=dXJQRFuq1friCIKU)  <br>
+- [Diversos projetos por Rocketseat](https://youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&si=dXJQRFuq1friCIKU) 
+<br>
 
 ### Apenas HTML5 & CSS3
-[Portfolio HTML5 & CSS3 por Adriana Saty](https://youtu.be/n_Etdr7Dbjs)  <br>
-[Landing Page HTML5 & CSS3 por Alexandre Saints](https://youtu.be/edDCEK5QWE8)  <br>
-[Design de Tela de login com responsividade HTML5 & CSS3 por Markzuel]([Markzuel](https://youtu.be/69-WfrVBli8)  <br>
+- [Portfolio HTML5 & CSS3 por Adriana Saty](https://youtu.be/n_Etdr7Dbjs)  
+<br>
+- [Landing Page HTML5 & CSS3 por Alexandre Saints](https://youtu.be/edDCEK5QWE8)  
+<br>
+- [Design de Tela de login com responsividade HTML5 & CSS3 por Markzuel]([Markzuel](https://youtu.be/69-WfrVBli8)  
+<br>
 
 
 ### HTML5, CSS3 & JS
-[Projeto de Gerador de Senhas HTML5, CSS3 & JS por Sujeito Programador](https://www.youtube.com/watch?v=i6t2jaRxos4)  <br>
-[Projeto de Calculadora de IMC HTML5, CSS3 & JS por Larissa Kich](https://youtu.be/UBYqkpsafyI)  <br>
-[Projeto de criar o Mario com HTML5 CSS3 & JS por Manual do Dev](https://www.youtube.com/watch?v=r9buAwVBDhA&t=194s&pp=ygURcHJvamV0byBmcm9udC1lbmQ%3D)  <br>
+- [Projeto de Gerador de Senhas HTML5, CSS3 & JS por Sujeito Programador](https://www.youtube.com/watch?v=i6t2jaRxos4)  
+<br>
+- [Projeto de Calculadora de IMC HTML5, CSS3 & JS por Larissa Kich](https://youtu.be/UBYqkpsafyI)  
+<br>
+- [Projeto de criar o Mario com HTML5 CSS3 & JS por Manual do Dev](https://www.youtube.com/watch?v=r9buAwVBDhA&t=194s&pp=ygURcHJvamV0byBmcm9udC1lbmQ%3D)  
+<br>
 </p>
 
 # Entrar em contato
-[Sinta-se a vontade para me chamar no Instagram](https://www.instagram.com/devduque/)
+- [Sinta-se a vontade para me chamar no Instagram](https://www.instagram.com/devduque/)
