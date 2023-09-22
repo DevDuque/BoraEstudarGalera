@@ -1,9 +1,10 @@
 # BoraEstudarGalera
 
-<p align="center">
+<h1 align="center">
   <img src="./welcome.png" alt=HTML CSS JS - Analogy" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+</h1>
+
 <h1 align="center"> HTML </h1>
 <p align="center"> Uma linguagem de marcação, e não programação, ou seja, usada para definir a estrutura do seu conteúdo. HTML consiste de uma série de [elementos] que você usa para delimitar ou agrupar diferentes partes do conteúdo para que ele apareça ou atue de determinada maneira. As [tags] anexas podem transformar uma palavra ou imagem num hiperlink, pode colocar palavras em itálico, pode aumentar ou diminuir a fonte e assim por diante.
 Assim como nosso esqueleto nos dá suporte e estrutura, o HTML fornece a base essencial para os sites e páginas da web, permitindo que textos, imagens e vídeos se encaixem harmoniosamente. É como o alicerce de uma casa incrível, garantindo que tudo esteja no lugar certo para que você possa desfrutar de uma experiência na web emocionante e organizada. Portanto, da próxima vez que você navegar na internet, lembre-se do papel fundamental do HTML, que torna tudo possível! </p>
@@ -20,9 +21,6 @@ Ele funciona no lado do usuário da web, o que significa que é executado no com
 Você pode pensar no JavaScript como um conjunto de instruções que diz à página da web o que fazer quando algo acontece, como quando você clica em um botão. É como mágica digital! E a melhor parte é que o JavaScript é uma linguagem que não é difícil de aprender, mas é muito poderosa.
 Então, da próxima vez que você usar um site interativo, lembre-se de que o JavaScript está trabalhando nos bastidores para tornar tudo isso possível. É o herói invisível que faz a web se mover e torna a sua experiência online mais divertida e útil!
 </p>
-
-
-
 
 Aqui temos sites que eu acho pertinentes, que me ajudaram para estudar para isso.
 
