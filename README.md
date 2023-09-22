@@ -5,7 +5,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </h1>
 
-<h1 align="center"> HTML </h1>
+<h1 align="center"> HTML5 </h1>
 <p align="center"> Uma linguagem de marcação, e não programação, ou seja, usada para definir a estrutura do seu conteúdo. HTML consiste de uma série de [elementos] que você usa para delimitar ou agrupar diferentes partes do conteúdo para que ele apareça ou atue de determinada maneira. As [tags] anexas podem transformar uma palavra ou imagem num hiperlink, pode colocar palavras em itálico, pode aumentar ou diminuir a fonte e assim por diante.
 Assim como nosso esqueleto nos dá suporte e estrutura, o HTML fornece a base essencial para os sites e páginas da web, permitindo que textos, imagens e vídeos se encaixem harmoniosamente. </p>
 
