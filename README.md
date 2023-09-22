@@ -21,6 +21,12 @@ Ele funciona no lado do usuário da web, o que significa que é executado no com
 Você pode pensar no JavaScript como um conjunto de instruções que diz à página da web o que fazer quando algo acontece, como quando você clica em um botão. É como mágica digital! E a melhor parte é que o JavaScript é uma linguagem que não é difícil de aprender, mas é muito poderosa.
 </p>
 
+<h1 align="center">Agora falando de design - Figma </h1>
+<p align="center"> Como temos que elaborar um design de forma cooperativa, ultra recomendo o Figma. Além de funcionalidades ótimas, ele traz consigo um ambiente cooperativo e tudo na nuvem!
+O Figma é como a sua mesa de trabalho, onde você pode cortar, colorir e encaixar todas as peças do quebra-cabeça até que ele fique exatamente como você deseja. Você pode até mesmo compartilhar seu quebra-cabeça com outras pessoas para que todos possam vê-lo e ajudar a montá-lo!
+O Figma torna a criação visual mais fácil e divertida, e a melhor parte é que você pode usar suas habilidades artísticas para tornar a internet um lugar mais bonito e funcional. Então, da próxima vez que você ver um site incrivelmente bem projetado ou um aplicativo com uma aparência deslumbrante, saiba que alguém usou o Figma para dar vida a essa maravilha digital!
+</p>
+
 Aqui temos sites que eu acho pertinentes, que me ajudaram para estudar para isso.
 
 # Aulas / Dicas de Estudo
@@ -54,6 +60,10 @@ Aqui temos sites que eu acho pertinentes, que me ajudaram para estudar para isso
 <br>
 [Projeto de criar o Mario com HTML5 CSS3 & JS por Manual do Dev](https://www.youtube.com/watch?v=r9buAwVBDhA&t=194s&pp=ygURcHJvamV0byBmcm9udC1lbmQ%3D)  
 <br>
+
+### Figma
+[Como usar o Figma por Tiger Codes](https://www.youtube.com/watch?v=oE_08KTRA9w&pp=ygUPZmlnbWEgaW5pY2lhbnRl) 
+[Como usar o Figma 2023 por Giotonello](https://www.youtube.com/watch?v=0WgnkzkC-Ew&pp=ygUPZmlnbWEgaW5pY2lhbnRl)
 
 # Entrar em contato
 [Sinta-se a vontade para me chamar no Instagram](https://www.instagram.com/devduque/)
